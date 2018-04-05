@@ -1,0 +1,1 @@
+This assignment helps you practice using the terminal commands
